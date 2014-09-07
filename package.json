@@ -1,0 +1,25 @@
+{
+  "name": "reuters-21578-json",
+  "description": "A JSONified and simplified version of the famous reuters 21578 dataset",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fergiemcdowall/reuters-21578-json",
+  "author": {
+    "name": "Fergus McDowall",
+    "email": "fergusmcdowall@gmail.com"
+  },
+  "keywords": [
+    "dataset",
+    "reuters"
+  ],
+  "maintainers": [
+    {
+      "name": "Fergus McDowall",
+      "email": "fergusmcdowall@gmail.com",
+      "url": "https://github.com/fergiemcdowall"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fergiemcdowall/reuters-21578-json.git"
+  }
+}
