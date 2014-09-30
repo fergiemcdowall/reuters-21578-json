@@ -1,7 +1,7 @@
 {
   "name": "reuters-21578-json",
   "description": "A JSONified and simplified version of the famous reuters 21578 dataset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/fergiemcdowall/reuters-21578-json",
   "author": {
     "name": "Fergus McDowall",
